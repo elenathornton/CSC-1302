@@ -1,4 +1,5 @@
 ## Homework 4
+### Topic: Recursion
 
 1. Write a program that calls a recursive method called multiply that takes two integer parameters a and b, where a and b are both positive integers. You can only use the +
 or – for multiplication.
