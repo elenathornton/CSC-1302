@@ -1,4 +1,5 @@
 ## Homework 2
+### Topic: Inheritance
 
 Given the Employee class and the Lawyer class above
 * Write an employee class SoftwareEngineer to accompany the other employees. SoftwareEngineers work 10 more hours (50 hours/week), they make $55,000 ($15,000 more than others), they get half as much vacation (only 5 days), and they have an additional method named writeCode that prints "Coding!" Use the super keyword to interact with the Employee superclass as appropriate.
