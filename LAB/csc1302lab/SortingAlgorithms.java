@@ -2,7 +2,7 @@ package csc1302lab;
 
 import java.util.Arrays;
 
-public class lab10 {
+public class SortingAlgorithms {
 	public static void main (String[] args) {
 		int arr1[] = {1,3,4,2,45,2,3,6,1,9,3};
 		int arr2[] = {2,4,2,5,8,3,5,67,34,23};
