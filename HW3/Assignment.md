@@ -1,4 +1,6 @@
 ## Homework 3
+### Topic: ArrayList
+
 1. Method doubleList: takes an ArrayList of Strings as a parameter and replaces every
 string with two of that same string. For example, if the list stores the values [“how”, “are”, “you?”] before the method is called, it should store the values [“how”, “how”, “are”, “are”, “you?”, “you?”] after the method finishes executing.
 
