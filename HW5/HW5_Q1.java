@@ -1,7 +1,3 @@
-//Laura Thornton 
-//HW 5 | October 31, 2019
-package hw5;
-
 import java.util.Arrays;
 
 public class HW5_Q1 {
