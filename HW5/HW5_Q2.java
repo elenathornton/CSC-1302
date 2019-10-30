@@ -1,7 +1,3 @@
-//Laura Thornton 
-//HW 5 | October 31, 2019
-package hw5;
-
 import java.util.Arrays;
 
 public class HW5_Q2 {
@@ -38,7 +34,3 @@ public class HW5_Q2 {
 	}
 
 }
-/*Write a modified “dual” version of the selection sort 
-algorithm that sorts an array of integers and selects 
-both the largest and smallest elements on each pass and 
-moves each of them to the appropriate end of the array.*/
